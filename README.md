@@ -1,5 +1,3 @@
-# 👋 Hi, I’m @RachelMacMathew
-
 🌱 I’m currently learning front-end web development through the ALX Software Engineering Program.  
 👀 I’m interested in building clean, responsive, and accessible user interfaces.  
 💬 I’m open to collaborating on beginner-friendly front-end projects.  
